@@ -1,0 +1,1 @@
+print(1-int(bool(int(input())%11)))

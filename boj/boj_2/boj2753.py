@@ -1,0 +1,5 @@
+a = int(input())
+if not a % 400: print(1)
+elif not a % 100: print(0)
+elif not a % 4: print(1)
+else: print(0)

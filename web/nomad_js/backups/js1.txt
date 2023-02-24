@@ -1,0 +1,11 @@
+const a = 5;
+const b = 2;
+let myName = "Jun";
+
+console.log(a + b);
+console.log(a * b);
+console.log(a / b);
+console.log("hello " + myName);
+
+myName = "ljw1029";
+console.log("your name is " + myName);

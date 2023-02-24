@@ -1,0 +1,7 @@
+function sayHello(name, age){
+    console.log('Hello my name is ' + name + ' and I am ' + age);
+}
+
+sayHello('Jun', 14)
+sayHello('Lu', 16)
+sayHello('Dad', 45)

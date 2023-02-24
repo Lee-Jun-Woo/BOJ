@@ -1,0 +1,3 @@
+const thingsToBuy = ["potato", "apple", "blueberry"];
+thingsToBuy.push("banana")
+console.log(thingsToBuy[933993])

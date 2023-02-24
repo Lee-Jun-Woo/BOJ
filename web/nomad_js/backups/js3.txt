@@ -1,0 +1,9 @@
+const daysOfWeek = ["mon", "tue", "wed", "thu", "fri", "sat"];
+
+
+// Get Item from Array
+console.log(daysOfWeek)
+
+// Add something to the Array
+daysOfWeek.push("sun")
+console.log(daysOfWeek)

@@ -1,0 +1,12 @@
+const age = parseInt(prompt("How old are you?"));
+if (isNaN(age)) {
+    console.log("I'll give up");
+} else if (0 < age && age < 18) {
+    console.log("Are you crazy");
+} else if (age >= 18 && age < 60) {
+    console.log("Okay");
+} else if (age < 0 || age > 150) {
+    console.log("Are you time traveler");
+} else {
+    console.log("Please don't");
+}
