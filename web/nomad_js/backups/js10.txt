@@ -1,0 +1,19 @@
+const calculator = {
+    add: function(a, b) {
+        alert(a + b);
+    },
+    sub: function(a, b) {
+        alert(a - b);
+    },
+    mul: function(a, b) {
+        alert(a * b);
+    },
+    div: function(a, b) {
+        alert(a / b);
+    },
+    pow: function(a, b) {
+        alert(a ** b);
+    },
+};
+
+console.log(calculator.add(2, 3))

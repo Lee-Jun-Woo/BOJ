@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+}
+a {
+    color: indigo;
+    text-decoration: none;
+}
+h1 {
+    font-size: 50px;
+    text-align: center;
+    border-bottom: 2px solid blue;
+    margin: 0;
+    padding: 15px;
+}
+#active {
+    color: blue;
+}
+#grid>ul {
+    border-right: 2px solid blue;
+    width: 90px;
+    margin: 0;
+    padding: 10px;
+}
+#grid {
+    display: grid;
+    grid-template-columns: 120px 1fr;
+}
+@media(max-width:600px) {
+    #grid {
+        display: block;
+    }
+    h1 {
+        font-size: 30px;
+        border: none;
+    }
+    #grid>ul {
+        border: none;
+    }
+}

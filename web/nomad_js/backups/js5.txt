@@ -1,0 +1,13 @@
+const player = {
+    name: "Jun",
+    points: 123,
+    kill: 13,
+    death: 7,
+    ultimateAvailable: false,
+};
+console.log(player.name);
+console.log(player.ultimateAvailable);
+player.ultimateAvailable = true;
+console["log"](player.ultimateAvailable);
+player.won = false;
+console.log(player);

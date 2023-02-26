@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.head-image-wrapper {
+    width: 100%;
+    position: relative;
+}
+
+.head-image {
+    width: 100%;
+}
+
+.head-image-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    color: wheat;
+    font-weight: bold;
+}
+
+h2 {
+    text-align: center;
+}
+
+.main-wrapper {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-content: space-around;
+    text-align: center;
+}
+
+p {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+footer {
+    font-size: 14px;
+    color: lightgray;
+    background-color: gray;
+    margin: 0;
+    padding: 20px;
+}

@@ -1,0 +1,6 @@
+const amITall = false;
+const iDontKnow = null;
+let something;
+console.log(amITall);
+console.log(iDontKnow)
+console.log(something);

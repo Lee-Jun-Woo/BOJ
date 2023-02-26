@@ -1,0 +1,9 @@
+const player = {
+    name: "Jun",
+    startBattle: function(opponentName){
+        console.log(player.name + ' and ' + opponentName + ' starts a battle!');
+    },
+};
+
+console.log(player.name);
+player.startBattle('Lu');
