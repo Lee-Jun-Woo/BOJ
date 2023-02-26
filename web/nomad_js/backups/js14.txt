@@ -1,0 +1,1 @@
+document.title = "Example Title";

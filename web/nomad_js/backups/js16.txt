@@ -1,0 +1,3 @@
+greetings = document.getElementsByClassName("greetings");
+
+console.log(greetings);
