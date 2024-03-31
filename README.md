@@ -10,11 +10,11 @@
   </tr>
   <tr>
     <td>Python</td>
-    <td>3</td>
+    <td>4</td>
   </tr>
   <tr>
     <td>총합</td>
-    <td>3</td>
+    <td>4</td>
   </tr>
 </table>
 
@@ -34,6 +34,10 @@
   </tr>
   <tr>
     <td><a href="https://www.acmicpc.net/problem/7420">7420번: 맹독 방벽</a></td>
-    <td><a href="src/4/7420.py">Python</a></td>
+    <td><a href="src/7/7420.py">Python</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.acmicpc.net/problem/10220">10220번: Self Representing Seq</a></td>
+    <td><a href="src/10/10220.py">Python</a></td>
   </tr>
 </table>
