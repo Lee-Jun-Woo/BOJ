@@ -26,6 +26,6 @@
   </tr>
   <tr>
     <td><a href="https://www.acmicpc.net/problem/1000">1000번: A+B</a></td>
-    <td><a href="src/1000.py">Python</a></td>
+    <td><a href="src/1/1000.py">Python</a></td>
   </tr>
 </table>
