@@ -10,11 +10,11 @@
   </tr>
   <tr>
     <td>Python</td>
-    <td>1</td>
+    <td>2</td>
   </tr>
   <tr>
     <td>총합</td>
-    <td>1</td>
+    <td>2</td>
   </tr>
 </table>
 
