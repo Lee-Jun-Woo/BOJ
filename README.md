@@ -10,12 +10,22 @@
   </tr>
   <tr>
     <td>Python</td>
-    <td>0</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>총합</td>
-    <td>0</td>
+    <td>1</td>
   </tr>
 </table>
 
 ## 해결한 문제 목록
+<table>
+  <tr>
+    <td>문제</td>
+    <td>코드</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.acmicpc.net/problem/1000>1000번: A+B</a></td>
+    <td><a href="src/1000.py">Python</a></td>
+  </tr>
+</table>
