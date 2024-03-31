@@ -10,11 +10,11 @@
   </tr>
   <tr>
     <td>Python</td>
-    <td>2</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>총합</td>
-    <td>2</td>
+    <td>3</td>
   </tr>
 </table>
 
@@ -31,5 +31,9 @@
   <tr>
     <td><a href="https://www.acmicpc.net/problem/4181">4181번: Convex Hull</a></td>
     <td><a href="src/4/4181.py">Python</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.acmicpc.net/problem/7420">7420번: 맹독 방벽</a></td>
+    <td><a href="src/4/7420.py">Python</a></td>
   </tr>
 </table>
