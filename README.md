@@ -11,11 +11,11 @@
   </tr>
   <tr>
     <td>Python</td>
-    <td>5</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>총합</td>
-    <td>5</td>
+    <td>6</td>
   </tr>
 </table>
 
@@ -49,6 +49,11 @@
   <tr>
     <td><a href="https://www.acmicpc.net/problem/10220">10220번: Self Representing Seq</a></td>
     <td><a href="src/10/10220.py">Python</a></td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.acmicpc.net/problem/16562">16562번: 친구비</a></td>
+    <td><a href="src/16/16562.py">Python</a></td>
     <td>-</td>
   </tr>
 </table>
