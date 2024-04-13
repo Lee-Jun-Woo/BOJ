@@ -11,11 +11,11 @@
   </tr>
   <tr>
     <td>Python</td>
-    <td>6</td>
+    <td>7</td>
   </tr>
   <tr>
     <td>총합</td>
-    <td>6</td>
+    <td>7</td>
   </tr>
 </table>
 
@@ -39,6 +39,11 @@
   <tr>
     <td><a href="https://www.acmicpc.net/problem/4181">4181번: Convex Hull</a></td>
     <td><a href="src/4/4181.py">Python</a></td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.acmicpc.net/problem/4256">4256번: 트리</a></td>
+    <td><a href="src/4/4256.py">Python</a></td>
     <td>-</td>
   </tr>
   <tr>
