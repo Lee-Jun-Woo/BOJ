@@ -72,7 +72,7 @@
   </tr>
   <tr>
     <td><a href="https://www.acmicpc.net/problem/27465">27465번: 소수가 아닌 수</a></td>
-    <td><a href="src/20/27465.txt">Text</a></td>
+    <td><a href="src/27/27465.txt">Text</a></td>
     <td>-</td>
   </tr>
 </table>
