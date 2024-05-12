@@ -61,4 +61,9 @@
     <td><a href="src/16/16562.py">Python</a></td>
     <td>-</td>
   </tr>
+  <tr>
+    <td><a href="https://www.acmicpc.net/problem/20007">20007번: 떡 돌리기</a></td>
+    <td><a href="src/20/20007.py">Python</a></td>
+    <td>-</td>
+  </tr>
 </table>
