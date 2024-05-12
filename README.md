@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td>Python</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>총합</td>
