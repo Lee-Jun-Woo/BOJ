@@ -14,8 +14,12 @@
     <td>8</td>
   </tr>
   <tr>
+    <td>Text</td>
+    <td>1</td>
+  </tr>
+  <tr>
     <td>총합</td>
-    <td>8</td>
+    <td>9</td>
   </tr>
 </table>
 
@@ -64,6 +68,11 @@
   <tr>
     <td><a href="https://www.acmicpc.net/problem/20007">20007번: 떡 돌리기</a></td>
     <td><a href="src/20/20007.py">Python</a></td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.acmicpc.net/problem/27465">27465번: 소수가 아닌 수</a></td>
+    <td><a href="src/20/27465.py">Text</a></td>
     <td>-</td>
   </tr>
 </table>
