@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <td>총합</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
 </table>
 
