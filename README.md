@@ -9,10 +9,12 @@
     <td>문제 번호</td>
     <td>문제 제목</td>
     <td>소스 코드</td>
+    <td>블로그</td>
   </tr>
   <tr>
     <td>13334</td>
     <td>철로</td>
     <td><a href="https://github.com/Lee-Jun-Woo/BOJ/blob/main/src/13334.py">링크</a></td>
+    <td><a href="https://velog.io/@necu1029/boj-13334">링크</a></td>
   </tr>
 </table>
