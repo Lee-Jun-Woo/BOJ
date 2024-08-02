@@ -18,6 +18,12 @@
     <td><a href="https://velog.io/@necu1029/boj-1517">링크</a></td>
   </tr>
   <tr>
+    <td>3055</td>
+    <td>탈출</td>
+    <td><a href="https://github.com/Lee-Jun-Woo/BOJ/blob/main/src/3055.py">링크</a></td>
+    <td><a href="https://velog.io/@necu1029/boj-3055">링크</a></td>
+  </tr>
+  <tr>
     <td>13334</td>
     <td>철로</td>
     <td><a href="https://github.com/Lee-Jun-Woo/BOJ/blob/main/src/13334.py">링크</a></td>
