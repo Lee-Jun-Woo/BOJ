@@ -12,6 +12,12 @@
     <td>블로그</td>
   </tr>
   <tr>
+    <td>1033</td>
+    <td>칵테일</td>
+    <td><a href="https://github.com/Lee-Jun-Woo/BOJ/blob/main/src/1033.py">링크</a></td>
+    <td><a href="https://velog.io/@necu1029/boj-1033">링크</a></td>
+  </tr>
+  <tr>
     <td>1517</td>
     <td>버블 소트</td>
     <td><a href="https://github.com/Lee-Jun-Woo/BOJ/blob/main/src/1517.py">링크</a></td>
