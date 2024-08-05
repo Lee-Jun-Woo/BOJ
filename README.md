@@ -36,6 +36,12 @@
     <td><a href="https://velog.io/@necu1029/boj-13334">링크</a></td>
   </tr>
   <tr>
+    <td>14725</td>
+    <td>개미굴</td>
+    <td><a href="https://github.com/Lee-Jun-Woo/BOJ/blob/main/src/14725.py">링크</a></td>
+    <td><a href="https://velog.io/@necu1029/boj-14725">링크</a></td>
+  </tr>
+  <tr>
     <td>15711</td>
     <td>환상의 짝꿍</td>
     <td><a href="https://github.com/Lee-Jun-Woo/BOJ/blob/main/src/15711.py">링크</a></td>
