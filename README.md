@@ -18,6 +18,12 @@
     <td><a href="https://velog.io/@necu1029/boj-1033">링크</a></td>
   </tr>
   <tr>
+    <td>1167</td>
+    <td>트리의 지름</td>
+    <td><a href="https://github.com/Lee-Jun-Woo/BOJ/blob/main/src/1167.py">링크</a></td>
+    <td><a href="https://velog.io/@necu1029/boj-1167">링크</a></td>
+  </tr>
+  <tr>
     <td>1517</td>
     <td>버블 소트</td>
     <td><a href="https://github.com/Lee-Jun-Woo/BOJ/blob/main/src/1517.py">링크</a></td>
