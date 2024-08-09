@@ -42,6 +42,12 @@
     <td><a href="https://velog.io/@necu1029/boj-13334">링크</a></td>
   </tr>
   <tr>
+    <td>14722</td>
+    <td>우유 도시</td>
+    <td><a href="https://github.com/Lee-Jun-Woo/BOJ/blob/main/src/14722.py">링크</a></td>
+    <td><a href="https://velog.io/@necu1029/boj-14722">링크</a></td>
+  </tr>
+  <tr>
     <td>14725</td>
     <td>개미굴</td>
     <td><a href="https://github.com/Lee-Jun-Woo/BOJ/blob/main/src/14725.py">링크</a></td>
